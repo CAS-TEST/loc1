@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?mso-infoPathSolution productVersion="14.0.0" PIVersion="1.0.0.0" href="http://sharepoint/sites/WP7DemoAsset/Shared%20Documents/Content/Authoring/Mail/Form/Mail.xsn" name="urn:schemas-microsoft-com:office:infopath:Mail:" solutionVersion="1.0.0.29" ?>
+<?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.3"?>
+<PrePop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2010-07-22T18:01:00" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-us">
+  <MessageSet>
+    <!-- Conversation 1 (1b7bcf83-5a0f-4336-8db5-8079670e339b) (4 emails) -->
+    <Message>
+      <Subject>Proof my presentation? Please?</Subject>
+      <From name="Wendy Kahn" email="wendy@example.msn.com"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-22000" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>1b7bcf835a0f43368db58079670e339b</ConversationId>
+      <HtmlBody>
+        Hey cousin, I need your professional opinion... can you look at this presentation for me? Are you at your office?
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Wendy
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="FourthCoffee.pptx">RetailDemo_Email_en_01A.pptx</Attach>
+    </Message>
+    <Message>
+      <Subject>RE: Proof my presentation? Please?</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To name="Wendy Kahn" email="wendy@example.msn.com"></To>
+      <reldate offset="-21500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>1b7bcf835a0f43368db58079670e339b</ConversationId>
+      <HtmlBody>
+        I’m out of the office right now, but no problem. I’m on my Windows Phone, so I can view and edit Powerpoint easily.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        I always have time to help out family :)
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <Message>
+      <Subject>RE: Proof my presentation? Please?</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To name="Wendy Kahn" email="wendy@example.msn.com"></To>
+      <reldate offset="-19000" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>1b7bcf835a0f43368db58079670e339b</ConversationId>
+      <HtmlBody>
+        Here it is! I found a couple small typos, but other than that, it looks great! Call me if you want to discuss.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="FourthCoffee.pptx">RetailDemo_Email_en_01B.pptx</Attach>
+    </Message>
+    <Message>
+      <Subject>RE: Proof my presentation? Please?</Subject>
+      <From name="Wendy Kahn" email="wendy@example.msn.com"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-18000" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>1b7bcf835a0f43368db58079670e339b</ConversationId>
+      <HtmlBody>
+        THANKS! I can’t believe how quick and easy that was!
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Wendy
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 2 (2444ea20-3b97-4854-bd9f-f591ec890800) (1 email) -->
+    <Message>
+      <Subject>Pic of the kids</Subject>
+      <From name="Scott Mitchell" email="scott@example.msn.com"></From>
+      <To name="David Alexander" email="david@example.msn.com"></To>
+      <reldate offset="-18500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>2444ea203b974854bd9ff591ec890800</ConversationId>
+      <HtmlBody>
+        Hey! Michelle had been asking Linda for a pic of the kids, so I’m sending one along.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Scott
+      </HtmlBody>
+      <ReadFlag value="0"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="Photo.jpg">RetailDemo_Email_en_02.jpg</Attach>
+    </Message>
+    <!-- Conversation 3 (38aa3cdd-d60f-4f90-8aba-3c11c66fa4db) (2 emails) -->
+    <Message>
+      <Subject>Please review ASAP</Subject>
+      <From name="Nate Sun" email="natesun@contoso.net"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-22500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>38aa3cddd60f4f908aba3c11c66fa4db</ConversationId>
+      <HtmlBody>
+        We need a quick answer on this request for proposal. How soon can you look at it?
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Nate Sun
+        &lt;br/&gt;
+        VP, Product Development
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="Proposal.docx">RetailDemo_Email_en_03.docx</Attach>
+    </Message>
+    <Message>
+      <Subject>RE: Please review ASAP</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To name="Nate Sun" email="natesun@contoso.net"></To>
+      <reldate offset="-21750" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>38aa3cddd60f4f908aba3c11c66fa4db</ConversationId>
+      <HtmlBody>
+        I’m looking at it now. Thanks for the heads up.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 4 (4e7dacf7-77ce-4edb-be0d-873750359440) (1 S+) -->
+    <Message>
+      <Store>Windows Live</Store>
+      <Subject>Pro Bono Brainstorm</Subject>
+      <reldate offset="-21990" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <From name="Marc Boyer" email="marcboy@contoso.net" />
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <To name="Charlotte Weiss " email="charlotte@example.msn.com"></To>
+      <To name="Brian Goldstein" email="briangold@contoso.net"></To>
+      <To name="Nate Sun" email="natesun@contoso.net"></To>
+      <ConversationId>4e7dacf777ce4edbbe0d873750359440</ConversationId>
+      <HtmlBody>
+        Hope you can make it.  Charlotte’s bringing donuts.
+      </HtmlBody>
+      <ReadFlag value="0" />
+      <Flags value="0" />
+      <Class>IPM.Schedule.Meeting.Request</Class>
+      <MeetingStartTime year="2011" month="5" day="20" hour="11" minute="00" second="00" />
+      <MeetingEndTime year="2011" month="5" day="20" hour="12" minute="00" second="00" />
+      <MeetingData>
+        <Location>Building 7 Office 826</Location>
+        <RequiredAttendees value="David Alexander; Charlotte Weiss; Brian Goldstein; Nate Sun; Marc Boyer;" />
+        <ReminderMinutesBeforeStart value="5" />
+        <ResponseRequested value="false" />
+      </MeetingData>
+      <Folder>inbox</Folder>
+    </Message>
+    <!-- Conversation 5 (57382570-8070-4282-b1ce-83fda1f614f2) (1 email) -->
+    <Message>
+      <Subject>Dinner</Subject>
+      <From name="Sean P. Alexander" email="sean@example.msn.com"></From>
+      <To name="David Alexander" email="david@example.msn.com"></To>
+      <reldate offset="-23750" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>5738257080704282b1ce83fda1f614f2</ConversationId>
+      <HtmlBody>
+        Hello son,
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Are you, Michelle and the girls going to be able to make it over next weekend?
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Dad
+      </HtmlBody>
+      <ReadFlag value="0"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 6 (6a51691b-4cf0-477f-8266-18ba9f71262b) (2 emails) -->
+    <Message>
+      <Subject>White board notes from brainstorm</Subject>
+      <From name="Marc Boyer" email="marcboy@contoso.net"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-21500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>6a51691b4cf0477f826618ba9f71262b</ConversationId>
+      <HtmlBody>
+        I’ve attached the notes in OneNote. So easy.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Marc
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="Notes.one">RetailDemo_Email_en_06.one</Attach>
+    </Message>
+    <Message>
+      <Subject>RE: White board notes from brainstorm</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To name="Marc Boyer" email="marcboy@contoso.net"></To>
+      <reldate offset="-17800" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>6a51691b4cf0477f826618ba9f71262b</ConversationId>
+      <HtmlBody>
+        Great! This is helpful.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+        &lt;br/&gt;
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 7 (76ba3d16-0c97-4bb9-9c7d-b195fceb5d06) (2 emails) -->
+    <Message>
+      <Subject>Greetings from overseas</Subject>
+      <From name="David E Karle" email="davide@example.msn.com"></From>
+      <To name="David Alexander" email="david@example.msn.com"></To>
+      <reldate offset="-23000" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>76ba3d160c974bb99c7db195fceb5d06</ConversationId>
+      <HtmlBody>
+        Hey buddy.  I am sitting in the pub and thinking about the old days. Hope all is well!
+        &lt;br/&gt;
+        David
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <Message>
+      <Subject>RE: Greetings from overseas</Subject>
+      <From name="David Alexander" email="david@example.msn.com"></From>
+      <To name="David E Karle" email="davide@example.msn.com"></To>
+      <reldate offset="-18900" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>76ba3d160c974bb99c7db195fceb5d06</ConversationId>
+      <HtmlBody>
+        Ha, thanks. Hope your vacation is treating you well. I just saw your pics come through on Facebook—looks like you’re having an amazing time!
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Talk soon,
+        &lt;br/&gt;
+        David
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 8 (8802e632-59a7-4587-9d2a-09e44bfc7c0f) (2 emails) -->
+    <Message>
+      <Subject>Look at this new forecast</Subject>
+      <From name="Brian Goldstein" email="briangold@contoso.net"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-18400" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>8802e63259a745879d2a09e44bfc7c0f</ConversationId>
+      <HtmlBody>
+        These new numbers look really good. Check them out when you get a chance.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Brian Goldstein
+        &lt;br/&gt;
+        Senior Analyst
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+      <Attach displayname="XYZCorpFinancials.xlsx">RetailDemo_Email_en_08.xlsx</Attach>
+    </Message>
+    <Message>
+      <Subject>RE: Look at this new forecast</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To nname="Brian Goldstein" email="briangold@contoso.net"></To>
+      <reldate offset="-17600" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>8802e63259a745879d2a09e44bfc7c0f</ConversationId>
+      <HtmlBody>
+        I’m looking at them now. You’re right--these numbers look great.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 9 (9ec14eb9-f1f1-475a-9d71-3981f4b4e832) (3 emails) -->
+    <Message>
+      <Subject>Lost phone</Subject>
+      <From name="Charlotte Weiss" email="charlotte@example.msn.com"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-20500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>9ec14eb9f1f1475a9d713981f4b4e832</ConversationId>
+      <HtmlBody>
+        Did I leave my Windows Phone in the conference room?? I can’t find it anywhere. I am freaking out!
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <Message>
+      <Subject>RE: Lost phone</Subject>
+      <From name="David Alexander" email="davidalex@contoso.net"></From>
+      <To name="Charlotte Weiss" email="charlotte@example.msn.com"></To>
+      <reldate offset="-19200" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>9ec14eb9f1f1475a9d713981f4b4e832</ConversationId>
+      <HtmlBody>
+        Do you know about the free Find My Phone feature on your PC? It will help you find it.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Thanks,
+        &lt;br/&gt;
+        David Alexander
+        &lt;br/&gt;
+        Product Developer
+        &lt;br/&gt;
+        Contoso, Inc.
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <Message>
+      <Subject>RE: Lost phone</Subject>
+      <From name="Charlotte Weiss" email="charlotte@example.msn.com"></From>
+      <To name="David Alexander" email="davidalex@contoso.net"></To>
+      <reldate offset="-18350" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>9ec14eb9f1f1475a9d713981f4b4e832</ConversationId>
+      <HtmlBody>
+        Find My Phone worked!  I have my phone back.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Technology is amazing.
+      </HtmlBody>
+      <ReadFlag value="0"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <!-- Conversation 10 (adb3fb42-9688-45aa-9704-5446301a4537) (2 emails) -->
+    <Message>
+      <Subject>I love my new Windows Phone</Subject>
+      <From name="Linda Mitchell" email="linda@example.msn.com"></From>
+      <To name="David Alexander" email="david@example.msn.com"></To>
+      <reldate offset="-5500" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>adb3fb42968845aa97045446301a4537</ConversationId>
+      <HtmlBody>
+        You were totally right about the new Windows Phone. It’s fast, easy, and fun!  I like that I can stay in touch without having to switch from app to app.
+        &lt;br/&gt;
+        &lt;br/&gt;
+        Linda
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>inbox</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+    <Message>
+      <Subject>RE: I love my new Windows Phone</Subject>
+      <From name="David Alexander" email="david@example.msn.com"></From>
+      <To name="Linda Mitchell" email="linda@example.msn.com"></To>
+      <reldate offset="-4700" tz="utc">
+        <DeliveryTime month="$month" year="$year" minute="$minute" day="$day" hour="$hour" second="$second"></DeliveryTime>
+      </reldate>
+      <ConversationId>adb3fb42968845aa97045446301a4537</ConversationId>
+      <HtmlBody>
+        Glad you like it!
+        &lt;br/&gt;
+        &lt;br/&gt;
+        David
+      </HtmlBody>
+      <ReadFlag value="1"></ReadFlag>
+      <Store>Windows Live</Store>
+      <Importance value="Normal"></Importance>
+      <Folder>Sent Items</Folder>
+      <ServiceName value="Windows Live"></ServiceName>
+    </Message>
+  </MessageSet>
+</PrePop>
