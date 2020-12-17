@@ -1,0 +1,31 @@
+
+"messages": {
+                "translation": [
+                    {
+                        "type": "gcal",
+                        "timestamp": "11:00 AM",
+                        "msgHeader": "5 minutes until next event",
+                        "subject": "Workshop Meeting",
+                        "time": "Monday, December 17, 2018 at 10:30 AM to 12:00 PM",
+                        "place": "UX Room, 4th Floor",
+                        "guest": [
+                            "persona_a",
+                            "persona_b"
+                        ],
+                        "display_remove": false
+                    },
+                    {
+                        "type": "ocal",
+                        "timestamp": "11:05 AM",
+                        "subject": "Platform Analytics office hours",
+                        "time": "Tomorrow at 1:00 PM",
+                        "place": "UX Room, 4th Floor",
+                        "guest": [
+                            "persona_d",
+                            "persona_h"
+                        ],
+                        "display_remove": false
+                    }
+                ],
+                "notes": "This is a JSON data created from the UI Generator."
+            },
