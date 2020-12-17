@@ -1,4 +1,4 @@
-
+{
 "messages": {
                 "translation": [
                     {
@@ -28,4 +28,5 @@
                     }
                 ],
                 "notes": "This is a JSON data created from the UI Generator."
-            },
+            }
+}
