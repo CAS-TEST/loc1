@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<simple>
-  <product>Skim milk</product>
-  <price>1.15</price>
-  <onsale>0</onsale>
-</simple>
+<resources>
+  <string name="product">"Skim milk"</string>
+  <string name="price">"1.15"</string>
+  <string name="onsale">"0"</string>
+</resources>
